@@ -1,0 +1,32 @@
+# Vivado generated files
+.Xil/
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.debug/
+webtalk/
+webtalk.jou
+webtalk.log
+
+# Vivado logs and journals
+*.jou
+*.log
+*.str
+
+# Simulation generated files
+xsim.dir/
+*.wdb
+*.wcfg
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
