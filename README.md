@@ -133,9 +133,22 @@ The testbench reports the total number of tests and errors.
 - Investigate timing and maximum operating frequency after synthesis
 - Explore faster adder architectures such as carry-lookahead or carry-select adders
 
+
+## Verification
+
+The design was verified using a Verilog testbench in Vivado XSim.
+
+- Total test cases: **20,029**
+- Total errors: **0**
+- Result: **ALL TESTS PASSED**
+- Verification includes directed and randomized test cases.
+
+![Simulation Result](simulation_pass.png)
+
 ## Author
 
 **Arpan Naskar**
 
-B.E. Electronics & Tele-Communication Engineering  
+  B.E. Electronics & Tele-Communication Engineering  
 Jadavpur University
+
